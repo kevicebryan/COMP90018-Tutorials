@@ -20,7 +20,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "COMP90018-Tutorials-2024"
+rootProject.name = "COMP90018-Tutorials"
 include(":3-1-activitylifecycle")
 include(":3-2-layoutdemo")
 include(":3-3-watch")
